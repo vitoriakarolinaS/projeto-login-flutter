@@ -62,7 +62,8 @@ lib/
 
 
 ### 🏠 Tela Home
-<img src="https://via.placeholder.com/300x600.png?text=Home+Screen" width="250"/>
+<img width="917" height="893" alt="Captura de tela 2026-03-29 221547" src="https://github.com/user-attachments/assets/71c275ad-5fc3-44de-ba92-5eb934922e6b" />
+
 
 
 ---
